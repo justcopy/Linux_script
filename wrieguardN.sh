@@ -8,7 +8,7 @@
 # https://tunsafe.com/download
 
 # Debian9  安装 WireGuard 步骤
-# 详细参考逗比  https://doub.io/wg-jc1/
+# 图文博客教程 http://newxin.net/2018/11/30/debian9-wireguard/
 
 # Debian 默认往往都没有 linux-headers 内核，而安装使用 WireGuard 必须要
 
